@@ -4,9 +4,11 @@
 
 ![preview)](https://user-images.githubusercontent.com/115585523/196561243-d0c7a347-fa2d-4fc8-af04-85a6f9211970.png)
 
-Primeiro projeto pessoal desenvolvido com a utilização de JavaScript, com o intuito de ser meus primeiros passos na programação front-end (de verdade).
+Primeiro projeto pessoal desenvolvido com a utilização de JavaScript, com o intuito de ser um protótipo simples e descontraído de um portfólio.
 
-[Link de acesso](https://euigor.github.io/projeto-mini-portfolio/)
+
+[Link de acesso.](https://euigor.github.io/projeto-mini-portfolio/)
+
 
 ## Tecnologias usadas 
 
