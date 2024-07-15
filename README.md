@@ -8,7 +8,7 @@
 Small little introduction website. Made in 3 todays total.
 Nothing crazy here. Was made purely to see how much I knew of Web-development at the time.
 
-You can visit it right [here.]([https://euigor.github.io/projeto-mini-portfolio/](https://rottentanx.github.io/about-me-website/))
+You can visit it right <a href="https://rottentanx.github.io/about-me-website/" target="_blank">here.</a>
 
 
 ## *What was used to build this?*
