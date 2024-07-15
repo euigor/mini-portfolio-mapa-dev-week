@@ -1,0 +1,147 @@
+body{
+    background-image: url(https://camo.githubusercontent.com/7f88af367c4db38270bb4070487b0ea0f97af597bae2f4a526b2d5f442f20d9b/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f33653865396234613265393530303037316665363366303039663266353866662f74756d626c725f706b376b39344f55526531776b38786a336f315f313238302e6a7067);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    font-family: 'VT323', monospace;
+    color: rgb(111, 116, 111);
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 30px;
+}
+
+.cartao{
+    background-color: #000000;
+    opacity: 79.8%;
+    width: 370px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    overflow: hidden;
+    
+}
+
+.cartao .minhas-informacoes{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+
+
+.cartao .minhas-informacoes img{
+    border-radius: 50px;
+    border: 4px solid rgb(3, 3, 3);
+}
+
+.cartao .minhas-informacoes .nome{
+    font-size: 26px;
+    color: rgb(189, 185, 185);
+}
+.cartao .minhas-informacoes .cargo{
+    font-size: 20px;
+    color: rgb(212, 15, 15);
+}
+
+.cartao .conteudo{
+    margin-top: 15px;
+}
+
+.cartao .abas{
+    display: flex;
+}
+
+.cartao .abas .aba{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.cartao .abas img{
+    width: 30px;
+}
+
+.cartao .abas .aba.selecionado{
+    background-color: rgb(5, 5, 5);
+}
+
+.cartao .informacoes-abas{
+    background-color: rgb(0, 0, 0)
+}
+
+.cartao .abas .aba:hover{
+    background-color: gray;
+}
+
+.informacoes-abas .informacao{
+    min-height: 260px;
+    padding: 15px;
+    display: none;
+}
+
+.informacoes-abas .informacao.selecionado{
+
+    display: block;
+
+}
+
+.informacoes-abas .sub-titulo{
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.informacoes-abas .descricao{
+    font-size: 20px;
+    max-height: 180px;
+    overflow-y: auto;
+}
+
+.redes-sociais{
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-items: center;
+    max-height: 180px;
+    overflow-y: hidden;
+}
+
+.redes-sociais li a{
+    background-color: gray;
+    width: 250px;
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.redes-sociais .linkedin{
+    background-color: blue;
+    opacity: 80.2%;
+}
+
+.redes-sociais .github{
+    background-color: #070d12;
+    opacity: 80.2%;
+}
+
+.redes-sociais .instagram{
+    background-color: #ce3813fb;
+    opacity: 80.2%;
+    
+}
+
+.redes-sociais li a:hover{
+    opacity: 0.6;
+}
+
