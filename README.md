@@ -2,7 +2,8 @@
 
 > 18/10/22
 
-![preview)](https://user-images.githubusercontent.com/115585523/196561243-d0c7a347-fa2d-4fc8-af04-85a6f9211970.png)
+![image](https://github.com/user-attachments/assets/9f13de72-f22a-40dd-a3f6-7b9ad53b05cb)
+
 
 Small little introduction website. Made in 3 todays total.
 Nothing crazy here. Was made purely to see how much I knew of Web-development at the time.
@@ -18,6 +19,8 @@ You can visit it right [here.](https://euigor.github.io/projeto-mini-portfolio/)
 - VSCode <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="23" height="23"/> </a>
 
 
-  
+## Complexity level:
+
+<p>Meh. ¯\_(ツ)_/¯</p>
   
   
